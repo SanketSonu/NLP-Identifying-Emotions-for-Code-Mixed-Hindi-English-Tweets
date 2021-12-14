@@ -11,3 +11,8 @@ Steps:
 7. Implemented supervised deep learning models: CNN and LSTM.
 8. Evaluated Results.
 9. I Will be upload project Report in 'Feb - 2022' becuase right now I have submitted paper and if i upload here, there maybe chances of 'Palagrism'.
+
+Note: I'm uploading only Tweet's ID as a dataset because of Twitter Policy, which says I can't share data publically. I will discuss with my supervisor and will check if i can share exact dataset publically or not.
+
+
+Thanks :)
