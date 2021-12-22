@@ -16,4 +16,8 @@ Project Report: I Will be uploading the project Report in 'Feb - 2022' because r
 
 Note: I'm uploading only Tweet's ID as a dataset because of Twitter Policy, which says I can't share data publically. I will discuss with my supervisor and will check if I can share the exact dataset publically or not.
 
+Note: If you are unable to view the code, and it says 'An error occurred while reloading '.ipynb' file, which is a GitHub backend issue. You can try this:                         
+Step 1: Open-> https://nbviewer.org/                                                                                                              
+Step 2: Copy the link of the '.ipynb' code file and paste it into 'nbviewer'. You will be able to see the code file.
+
 Thanks.
